@@ -15,6 +15,8 @@
   <img align="center" alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </div><br/>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
+
 ![Dias GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthu133&show_icons=true&theme=radical)
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
