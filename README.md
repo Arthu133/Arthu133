@@ -1,4 +1,12 @@
-## Olá! Eu sou o Arthur Dias 🖐️
+## Hi! I'm Arthur Dias 🖐️
+## A developer who is always looking for innovative and challenging projects.
+<div align="center" style="margin-bottom:100px">
+<img width=48% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Arthu133&theme=dracula&mode=weekly" />
+<img width=48% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthu133&show_icons=true&theme=dracula&layout=compact" />
+</div>
+ 
+&nbsp;
+&nbsp;
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tzndias)
 
@@ -16,13 +24,7 @@
 </div><br/>
 
 
-<div align="center" style="margin-bottom:100px">
-<img width=48% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Arthu133&theme=dracula&mode=weekly" />
-<img width=48% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthu133&show_icons=true&theme=dracula&layout=compact" />
-</div>
- 
-&nbsp;
-&nbsp;
+
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
