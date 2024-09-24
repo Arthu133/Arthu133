@@ -16,7 +16,13 @@
 </div><br/>
 
 
-![Dias GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthu133&show_icons=true&theme=radical)
+<div align="center" style="margin-bottom:100px">
+<img width=48% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Arthu133&theme=dracula&mode=weekly" />
+<img width=48% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthu133&show_icons=true&theme=dracula&layout=compact" />
+</div>
+ 
+&nbsp;
+&nbsp;
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
