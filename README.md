@@ -1,5 +1,5 @@
 ## Hi! I'm Arthur Dias 🖐️
-## A developer who is always looking for innovative and challenging projects.
+## A Response Analyst who is always looking for innovative and challenging projects.
 ## Portfolio - https://arthu133.github.io/Portfolio/
 <div align="center" style="margin-bottom:100px">
 <img width=48% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Arthu133&theme=dracula&mode=weekly" />
